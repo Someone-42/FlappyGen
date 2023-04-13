@@ -2,7 +2,7 @@
 First year computer science high school project
 
 InGame screenshot example :
-![ExampleImage](/repository/assets/ExampleImage.png?raw=true "InGame example")
+![ExampleImage](/assets/ExampleImage.png?raw=true "InGame example")
 
 ### Project guidelines :
 - Had to be done in python
