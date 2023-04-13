@@ -1,0 +1,10 @@
+{
+  "_comment": "One very good bird for testing purpose",
+  "generation_number": 71,
+  "brains": [
+    {
+      "biais": [[-3.9342847344811376]],
+      "poids": [[0.4106972963360622, 2.84109103709468, -4.706079509345319, 4.241800249938967]]
+    }
+  ]
+}
