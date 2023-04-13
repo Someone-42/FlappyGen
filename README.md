@@ -6,7 +6,7 @@ InGame screenshot example :
 
 ### Project guidelines :
 - Had to be done in python
-- Had to use graphics.py (Based on pygame) for rendering
+- Had to use graphics.py (Module based on pygame made by the teacher) for rendering
 - Groups of 2 people
 
 ## Requirements :
